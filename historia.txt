@@ -7,3 +7,5 @@ Me llamo, Armando Xool.
 Mi perrita late sigue aqui.
 
 FINAL
+
+prueba de git reset HEAD
