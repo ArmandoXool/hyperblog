@@ -1,7 +1,9 @@
-Este es el inicio del aprendisaje de Git y GitHub
+﻿Este es el inicio del aprendisaje de Git y GitHub
 
 Es emocionante, es algo moderno y util 
 
 Mi edad actual es de 32 Años
 
 Me llamo, Armando Xool.
+
+Cambio 1
