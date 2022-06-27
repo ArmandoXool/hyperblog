@@ -12,4 +12,6 @@ prueba de git reset HEAD
 
 Experimiento 1
 
+Experimiento 2
+
 Master 1
